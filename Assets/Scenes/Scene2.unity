@@ -2179,7 +2179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 298205265}
   m_Layer: 0
-  m_Name: ENV
+  m_Name: <ENV Assets>
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4289,7 +4289,7 @@ GameObject:
   - component: {fileID: 1317075703}
   - component: {fileID: 1317075702}
   m_Layer: 0
-  m_Name: Canvas
+  m_Name: Overlay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5193,7 +5193,7 @@ GameObject:
   - component: {fileID: 1690002680}
   - component: {fileID: 1690002679}
   m_Layer: 0
-  m_Name: Thirds
+  m_Name: Triangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
